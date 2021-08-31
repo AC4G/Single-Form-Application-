@@ -1,7 +1,7 @@
 <?php
 session_start();
-error_reporting(-1);
-ini_set('display_errors', 'On');
+//error_reporting(-1);
+//ini_set('display_errors', 'On');
 
 if(empty($_SESSION['csrfToken'])){
     $_SESSION['csrfToken'] = bin2hex(random_bytes(32));
