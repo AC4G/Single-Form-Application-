@@ -17,7 +17,6 @@ define('STORAGE_DIR', __DIR__ . '/storage');
 define('BIN_DIR', __DIR__ . '/bin');
 define('ACTIONS_DIR',__DIR__.'/actions');
 define('MAILER_DIR',__DIR__.'/PHPMailer');
-define('PHPQRCODE_DIR',__DIR__.'/qr-code-master');
 
 $page = $_GET['page'] ?? 'main';
 
