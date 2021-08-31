@@ -1,0 +1,130 @@
+.body{
+    background: #222;
+}
+.label-10{
+    margin-top: 10px;   
+}
+.label-60{
+    margin-top: 60px;   
+}
+.padding-0{
+    padding: 0;
+}
+.nav-image{
+    background-image: url("../images/background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 120px;
+    border-bottom: 3px solid #de5c9d;
+}
+.text-align-center{
+    text-align: center;
+}
+.padding-0{
+    padding: 0;
+}
+footer{
+    background: #333;
+    border-top: 3px solid #de5c9d;
+    height: 200px;
+    margin-top: 120px;
+    position: relative;
+}
+.margin-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.link{
+    text-decoration: none;
+    color: #ff6666;
+    transition: 500ms;
+}
+.link:hover{
+    text-decoration: none;
+    color: #de5c9d;
+    transition: 500ms;
+}
+.label-30{
+    margin-top: 30px;
+}
+.label-100{
+    margin-top: 100px;
+}
+.label-80{
+    margin-top: 80px;
+}
+.p{
+    font-size: 10px;
+    color: white;
+    margin: 0;
+    position: absolute;
+    width: 300px;
+}
+.backToTop{
+    width: 30px;
+    height: 30px;
+    padding: 0;
+}
+.name{
+    min-width: 300px;
+    position: relative;
+    height: 80px;
+}
+#back-to-top{
+    background: #de5c9d;
+    height: 30px;
+    width: 30px;
+    z-index: 2;
+    position: absolute;
+}
+.bi-chevron-up{
+    height: 20px;
+    width: 20px;
+}
+.backToTop{
+    position: absolute;
+    top: 140px;
+}
+.noHover{
+    pointer-events: none;
+}
+.pointer {
+    cursor: pointer;
+}
+.pi{
+    color: gray;
+    font-size: 12px;
+    
+}
+ol{
+    list-style: none;
+}
+.li-impressum{
+    color: gray;
+    font-size: 16px;
+    pointer-events: none;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.gyoza{
+    box-shadow: 0px 5px 5px;
+    max-height: 300px;
+    max-width: 300px;
+}
+.bansai{
+    text-decoration: none;
+    color: black;
+}
+.bansai:hover{
+    color: black;
+}
+.contact-list{
+    margin-bottom: 377px;
+    padding: 0;
+}
+.impressum-list{
+    padding: 0;
+}

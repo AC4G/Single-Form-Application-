@@ -1,0 +1,1 @@
+<input type="date" value="<?= $processingInformation->visitDate ?>" name="visitDate" style="margin-top: 0px;" class="form-control pointer<?= $processingInformation->visitDateIsValid?'':' is-invalid'?>" min="<?= date('Y-m-d');?>" max="2022-01-01">

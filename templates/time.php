@@ -1,0 +1,1 @@
+<input type="time" value="<?= $processingInformation->visitTime ?>" name="visitTime" min="14:00" max="20:00" pattern="[0-9]{2}:[0-9]{2}" style="margin-top: 0px;" class="form-control pointer<?= $processingInformation->visitTimeIsValid?'':' is-invalid'?>">
