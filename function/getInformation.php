@@ -273,7 +273,7 @@ class FormInformation{
             'securityKey'=>$this->securityKey
         ];
 
-        $this->deleteLink = 'http://178.12.20.185/Single-Form-Application-Copy/index.php?' . http_build_query($this->parameterForDeleteLink);
+        $this->deleteLink = 'https://178.12.20.185/Single-Form-Application-Copy/index.php?' . http_build_query($this->parameterForDeleteLink);
     }
 
     public function selected($persons, $amountOfPersons){
