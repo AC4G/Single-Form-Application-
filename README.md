@@ -22,4 +22,4 @@ AC4G
 
 ## Screenshot
 
-![Alt text](assets/images/Screenshot 2021-09-14 211549.png)
+![](assets/images/Screenshot 2021-09-14 211549.png)
