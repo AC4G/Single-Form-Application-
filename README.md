@@ -29,7 +29,7 @@ AC4G
 ### Download source code
 
 
-%20%20%20https://github.com/AC4GPutin/Single-Form-Application-/archive/refs/heads/master.zip
+https://github.com/AC4GPutin/Single-Form-Application-/archive/refs/heads/master.zip
 
 
 ### Create database
