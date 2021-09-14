@@ -22,7 +22,7 @@ AC4G
 
 ## Screenshot
 
-<img src="assets/images/Screenshot%202021-09-14%20220621.png" width="838px"/>
+<img src="assets/images/Screenshot%202021-09-14%20220621.png" width="400px"/>
 
 ## Requirements
 
