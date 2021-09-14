@@ -22,4 +22,4 @@ AC4G
 
 ## Screenshot
 
-![](assets/images/Screenshot%202021-09-14%20211549.png)
+<img src="assets/images/Screenshot%202021-09-14%20211549.png" width="300px"/>
