@@ -45,4 +45,6 @@ Import install.sql to your database
 
 Go to conf/database.php and insert your database parameters
 
-### Have fun :D
+### Have fun :smiley:
+
+Everything should work now and you can send your first reservations :tada:
