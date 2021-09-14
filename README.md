@@ -26,8 +26,8 @@ AC4G
 
 ## Requirements
 
-- ```bash PHP 8.0``` or higher
-- ```bash MySQL``` or one to your liking
+- ```PHP 8.0``` or higher
+- ```MySQL``` or one to your liking
 
 ## Setup
 
