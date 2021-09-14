@@ -26,4 +26,10 @@ AC4G
 
 ## Setup
 
+### Download source code
+
+```bash
+Download Zip by clicking on this Link: https://github.com/AC4GPutin/Single-Form-Application-/archive/refs/heads/master.zip
+```
+
 ### Create database
