@@ -39,11 +39,11 @@ https://github.com/AC4GPutin/Single-Form-Application-/archive/refs/heads/master.
 
 ### Create database
 
-Import install.sql to your database
+Import ```install.sql``` to your database
 
 ### Connect database
 
-Go to conf/database.php and insert your database parameters
+Go to ```conf/database.php``` and insert your database parameters
 
 ### Have fun :smiley:
 
