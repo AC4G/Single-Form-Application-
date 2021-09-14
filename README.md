@@ -33,3 +33,9 @@ https://github.com/AC4GPutin/Single-Form-Application-/archive/refs/heads/master.
 
 
 ### Create database
+
+Import install.sql to your Database
+
+```sql
+instal.sql
+```
