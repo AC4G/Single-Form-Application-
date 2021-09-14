@@ -24,6 +24,11 @@ AC4G
 
 <img src="assets/images/Screenshot%202021-09-14%20211549.png" width="1018px"/>
 
+## Requirements
+
+- ```bash PHP 8.0``` or higher
+- ```bash MySQL``` or one to your liking
+
 ## Setup
 
 ### Download source code
