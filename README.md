@@ -44,3 +44,5 @@ Import install.sql to your database
 ### Connect database
 
 Go to conf/database.php and insert your database parameters
+
+### Have fun :D
