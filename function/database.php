@@ -17,7 +17,7 @@ function getDB()
         $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
         return $db;
     }catch(PDOException $e){
-        echo 'Connection failed: ' . $e->getMassage();
+        echo 'Connection failed: ' . $e;
     }
 }
 
