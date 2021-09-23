@@ -47,6 +47,10 @@ Import ```install.sql``` to your database
 
 Go to ```conf/database.php``` and insert your database parameters
 
+### Adjustment
+
+Go to ```/function/getInformation.php``` and put in line 239 and 276 your url as shown in example
+
 ### Have fun :smiley:
 
 Everything should work now and you can send your first reservations :tada:
