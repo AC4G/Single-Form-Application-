@@ -54,7 +54,3 @@ Go to ```/function/getInformation.php``` and put in line ```239``` and ```276```
 ### Have fun :smiley:
 
 Everything should work now and you can send your first reservations :tada:
-
-### Demo Link
-
-https://94.222.235.163/Single-Form-Application
